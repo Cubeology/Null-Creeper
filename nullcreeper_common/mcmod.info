@@ -1,0 +1,20 @@
+[
+{
+  "modid": "NC",
+  "name": "Null-Creeper",
+  "description": "No more creeper holes!",
+  "version": "0.0.1",
+  "url": "www.github.com/Cubeology/Null-Creeper",
+  "updateUrl": "",
+  "authorList": [
+    "Cubeology or in Minecraft, jacob041499"
+  ],
+  "credits": "To help a server out.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+  }
+  ]
